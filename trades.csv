@@ -1,0 +1,8 @@
+ts,action,slug,question,side,entry_price,exit_price,qty,gross_pnl,fees,net_pnl,cash_after,reason
+2026-03-16T01:21:28.886359+00:00,OPEN,will-bitcoin-hit-1m-before-gta-vi-872,Will bitcoin hit $1m before GTA VI?,YES,0.482,,31.1203,,0.3,,84.7,entry
+2026-03-16T01:21:28.886436+00:00,OPEN,will-the-oklahoma-city-thunder-win-the-2026-nba-finals,Will the Oklahoma City Thunder win the 2026 NBA Finals?,YES,0.355,,42.2535,,0.3,,69.4,entry
+2026-03-16T01:21:28.886481+00:00,OPEN,will-jesus-christ-return-before-gta-vi-665,Will Jesus Christ return before GTA VI?,YES,0.485,,30.9278,,0.3,,54.1,entry
+2026-03-16T01:29:06.799519+00:00,CLOSE,will-bitcoin-hit-1m-before-gta-vi-872,Will bitcoin hit $1m before GTA VI?,YES,0.482,0.482,31.1203,0.0,0.6,-0.6,68.5,universe_filter
+2026-03-16T01:29:06.799639+00:00,CLOSE,will-the-oklahoma-city-thunder-win-the-2026-nba-finals,Will the Oklahoma City Thunder win the 2026 NBA Finals?,YES,0.355,0.355,42.2535,0.0,0.6,-0.6,82.9,universe_filter
+2026-03-16T01:29:06.799725+00:00,CLOSE,will-jesus-christ-return-before-gta-vi-665,Will Jesus Christ return before GTA VI?,YES,0.485,0.485,30.9278,0.0,0.6,-0.6,97.3,universe_filter
+2026-03-16T17:22:32.203375+00:00,OPEN,will-gavin-newsom-win-the-2028-democratic-presidential-nomination-568,Will Gavin Newsom win the 2028 Democratic presidential nomination?,YES,0.2455,,61.0998,,0.3,,82.0,entry

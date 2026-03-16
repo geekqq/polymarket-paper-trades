@@ -1,0 +1,67 @@
+{
+  "cash": 82.0,
+  "equity": 96.9084,
+  "open": [
+    {
+      "slug": "will-gavin-newsom-win-the-2028-democratic-presidential-nomination-568",
+      "question": "Will Gavin Newsom win the 2028 Democratic presidential nomination?",
+      "side": "YES",
+      "entry_price": 0.2455,
+      "qty": 61.0998,
+      "entry_cost": 15.0,
+      "opened_at_ts": 1773681752.2033424,
+      "opened_at": "2026-03-16T17:22:32.203349+00:00"
+    }
+  ],
+  "closed": [
+    {
+      "slug": "will-bitcoin-hit-1m-before-gta-vi-872",
+      "question": "Will bitcoin hit $1m before GTA VI?",
+      "side": "YES",
+      "entry_price": 0.482,
+      "qty": 31.1203,
+      "entry_cost": 15.0,
+      "opened_at_ts": 1773624088.8863337,
+      "opened_at": "2026-03-16T01:21:28.886335+00:00",
+      "exit_price": 0.482,
+      "gross_pnl": 0.0,
+      "fees": 0.599999384,
+      "net_pnl": -0.599999384,
+      "closed_at": "2026-03-16T01:29:06.799497+00:00",
+      "reason": "universe_filter"
+    },
+    {
+      "slug": "will-the-oklahoma-city-thunder-win-the-2026-nba-finals",
+      "question": "Will the Oklahoma City Thunder win the 2026 NBA Finals?",
+      "side": "YES",
+      "entry_price": 0.355,
+      "qty": 42.2535,
+      "entry_cost": 15.0,
+      "opened_at_ts": 1773624088.8864315,
+      "opened_at": "2026-03-16T01:21:28.886432+00:00",
+      "exit_price": 0.355,
+      "gross_pnl": 0.0,
+      "fees": 0.5999997,
+      "net_pnl": -0.5999997,
+      "closed_at": "2026-03-16T01:29:06.799633+00:00",
+      "reason": "universe_filter"
+    },
+    {
+      "slug": "will-jesus-christ-return-before-gta-vi-665",
+      "question": "Will Jesus Christ return before GTA VI?",
+      "side": "YES",
+      "entry_price": 0.485,
+      "qty": 30.9278,
+      "entry_cost": 15.0,
+      "opened_at_ts": 1773624088.8864772,
+      "opened_at": "2026-03-16T01:21:28.886477+00:00",
+      "exit_price": 0.485,
+      "gross_pnl": 0.0,
+      "fees": 0.59999932,
+      "net_pnl": -0.59999932,
+      "closed_at": "2026-03-16T01:29:06.799699+00:00",
+      "reason": "universe_filter"
+    }
+  ],
+  "updated_at": "2026-03-16T18:00:22.109639+00:00"
+}
