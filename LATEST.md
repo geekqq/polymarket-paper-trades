@@ -1,8 +1,8 @@
 # Polymarket Paper Trading Report
 
-- Updated: 2026-03-16T20:30:31.851819+00:00
+- Updated: 2026-03-16T20:45:17.285004+00:00
 - Cash: $82.00
-- Equity: $97.03
+- Equity: $97.06
 - Open positions: 1
 - Closed positions: 3
 
